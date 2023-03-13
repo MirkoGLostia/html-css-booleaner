@@ -28,6 +28,8 @@ header{
 
 /* main */
 
+/* first section */
+
 #first-section{
     margin: 20px 0px;
 }
@@ -36,6 +38,15 @@ header{
     font-size: small;
 }
 
+/* second section */
+
+#second-section{
+    margin-bottom: 20px;
+}
+
+#photo-dscr{
+    font-size: smaller;
+}
 
 /* footer */
 .footer-img{
