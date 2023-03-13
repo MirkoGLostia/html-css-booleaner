@@ -1,0 +1,27 @@
+
+
+
+
+/* header */
+
+
+/* main */
+
+
+/* footer */
+#footer-title{
+    color: rgb(163, 157, 157);
+}
+
+.footer-img{
+    position: relative;
+}
+
+.footer-img-txt{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-weight: bold;
+}
