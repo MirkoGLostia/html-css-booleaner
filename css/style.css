@@ -1,5 +1,15 @@
+*{
+    margin: 0;
+}
 
 
+.grey{
+    color: rgb(156, 150, 150);
+}
+
+.blu{
+    color: rgb(1, 1, 252);
+}
 
 
 /* header */
@@ -18,12 +28,16 @@ header{
 
 /* main */
 
-
-/* footer */
-#footer-title{
-    color: rgb(163, 157, 157);
+#first-section{
+    margin: 20px 0px;
 }
 
+#datazione{
+    font-size: small;
+}
+
+
+/* footer */
 .footer-img{
     position: relative;
 }
