@@ -45,6 +45,10 @@ header{
 
 /* first section */
 
+h1{
+    font-size: 250%;
+}
+
 #datazione{
     font-size: small;
 }
