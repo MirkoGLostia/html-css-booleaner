@@ -3,7 +3,18 @@
 
 
 /* header */
+header{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(28, 152, 209);
+    background-size: 25%;
+    background-repeat: repeat;
+}
 
+.header-logo{
+    margin-top: 50px;
+    width: 200px;
+    height: 50px;
+}
 
 /* main */
 
