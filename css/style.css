@@ -1,7 +1,12 @@
+/* general */
+
 *{
     margin: 0;
 }
 
+.basic-margin{
+    margin: 20px 0px;
+}
 
 .grey{
     color: rgb(156, 150, 150);
@@ -10,6 +15,12 @@
 .blu{
     color: rgb(1, 1, 252);
 }
+
+.enlighted{
+    background-color: rgb(255, 255, 0);
+}
+
+
 
 
 /* header */
@@ -26,13 +37,13 @@ header{
     height: 50px;
 }
 
+
+
+
+
 /* main */
 
 /* first section */
-
-#first-section{
-    margin: 20px 0px;
-}
 
 #datazione{
     font-size: small;
@@ -40,13 +51,17 @@ header{
 
 /* second section */
 
-#second-section{
-    margin-bottom: 20px;
-}
-
 #photo-dscr{
     font-size: smaller;
 }
+
+/* third section */
+
+
+/* fourth section */
+
+
+
 
 /* footer */
 .footer-img{
