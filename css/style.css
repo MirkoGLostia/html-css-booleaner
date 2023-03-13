@@ -60,6 +60,26 @@ header{
 
 /* fourth section */
 
+#table-section-four{
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+    text-align: left;
+}
+
+.table-style-head{
+    background-color: rgb(73, 121, 224);
+    color: white;
+}
+
+.table-background{
+    background-color: lightblue;
+}
+
+/* fifth section */
+
+
+
 
 
 
